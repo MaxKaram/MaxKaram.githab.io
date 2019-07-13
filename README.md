@@ -1,2 +1,2 @@
-# MaxKaram.githab.io
+# MaxKaram.github.io
 My first git
